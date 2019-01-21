@@ -1,0 +1,5 @@
+Projekt Recenzje filmów
+
+Paweł Małek - GUI; zapis/odczyt do pliku XML
+Michał Kędra - klasa: Film, Baza_filmow, Ocena; ClassDiagram; Dokumetacja
+Marek Kula - klasa: Osoba, Użytkownik, Administrator, Baza_uzytkownikow; Program
