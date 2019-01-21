@@ -1,0 +1,7 @@
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\bin\Debug\Projekt PO.exe.config
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\bin\Debug\Projekt PO.exe
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\bin\Debug\Projekt PO.pdb
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\obj\Debug\Projekt PO.csprojAssemblyReference.cache
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\obj\Debug\Projekt PO.csproj.CoreCompileInputs.cache
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\obj\Debug\Projekt PO.exe
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\obj\Debug\Projekt PO.pdb

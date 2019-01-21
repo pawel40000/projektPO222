@@ -1,0 +1,23 @@
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\bin\Debug\glowny.exe.config
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\bin\Debug\glowny.exe
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\bin\Debug\glowny.pdb
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\obj\Debug\glowny.csprojAssemblyReference.cache
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\obj\Debug\glowny.csproj.CoreCompileInputs.cache
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\obj\Debug\glowny.exe
+C:\Users\zioma\Desktop\PO\Projekt PO\Projekt PO\obj\Debug\glowny.pdb
+C:\Users\Bobek\Documents\R\Zad\projekt\projekt\Projekt\projektPO\Projekt PO\bin\Debug\glowny.exe.config
+C:\Users\Bobek\Documents\R\Zad\projekt\projekt\Projekt\projektPO\Projekt PO\bin\Debug\glowny.exe
+C:\Users\Bobek\Documents\R\Zad\projekt\projekt\Projekt\projektPO\Projekt PO\bin\Debug\glowny.pdb
+C:\Users\Bobek\Documents\R\Zad\projekt\projekt\Projekt\projektPO\Projekt PO\obj\Debug\glowny.csprojAssemblyReference.cache
+C:\Users\Bobek\Documents\R\Zad\projekt\projekt\Projekt\projektPO\Projekt PO\obj\Debug\glowny.csproj.CoreCompileInputs.cache
+C:\Users\Bobek\Documents\R\Zad\projekt\projekt\Projekt\projektPO\Projekt PO\obj\Debug\glowny.exe
+C:\Users\Bobek\Documents\R\Zad\projekt\projekt\Projekt\projektPO\Projekt PO\obj\Debug\glowny.pdb
+C:\Users\Bobek\Documents\R\Zad\projekt\projekt\Projekt\projektPO\Projekt PO\bin\Debug\glowny.xml
+C:\Users\zioma\Desktop\projektPO\Projekt PO\bin\Debug\glowny.exe.config
+C:\Users\zioma\Desktop\projektPO\Projekt PO\bin\Debug\glowny.xml
+C:\Users\zioma\Desktop\projektPO\Projekt PO\bin\Debug\glowny.exe
+C:\Users\zioma\Desktop\projektPO\Projekt PO\bin\Debug\glowny.pdb
+C:\Users\zioma\Desktop\projektPO\Projekt PO\obj\Debug\glowny.csprojAssemblyReference.cache
+C:\Users\zioma\Desktop\projektPO\Projekt PO\obj\Debug\glowny.csproj.CoreCompileInputs.cache
+C:\Users\zioma\Desktop\projektPO\Projekt PO\obj\Debug\glowny.exe
+C:\Users\zioma\Desktop\projektPO\Projekt PO\obj\Debug\glowny.pdb

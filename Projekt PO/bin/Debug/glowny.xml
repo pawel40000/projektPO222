@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>glowny</name>
+    </assembly>
+    <members>
+        <member name="T:Projekt_PO.Administrator">
+            <summary>
+              <para>Klasa administrator dziedziczaca po osobie</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="P:Projekt_PO.Administrator.ID">
+            <summary>id administatora</summary>
+        </member>
+        <member name="P:Projekt_PO.Administrator.Email">
+            <summary>emial admininstratora</summary>
+        </member>
+        <member name="M:Projekt_PO.Administrator.#ctor(System.String,System.String,System.String)">
+            <summary>konstruktor z emailem, imieniem i nazwiskiem</summary>
+            <param name="e"></param>
+            <param name="i"></param>
+            <param name="n"></param>
+        </member>
+        <member name="P:Projekt_PO.Baza_filmow.LiczbaFilmów">
+            <summary>
+              <para>Ilosc filmow</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="P:Projekt_PO.Baza_filmow.Lista_Filmów">
+            <summary>Lista filmow</summary>
+        </member>
+        <member name="P:Projekt_PO.Baza_filmow.Nazwa">
+            <summary>Nazwa</summary>
+        </member>
+        <member name="M:Projekt_PO.Baza_filmow.#ctor">
+            <summary>konstruktory nieparametryczny bazy filmow</summary>
+        </member>
+        <member name="M:Projekt_PO.Baza_filmow.#ctor(System.String)">
+            <summary>Konstrukot z nazwa</summary>
+            <param name="nazaw"></param>
+        </member>
+        <member name="M:Projekt_PO.Baza_filmow.DodajFilm(Projekt_PO.Film)">
+            <summary>Metoda dodajaca film do listy</summary>
+            <param name="f"></param>
+        </member>
+        <member name="M:Projekt_PO.Baza_filmow.Ranking(System.Int32)">
+            <summary>Ranking najelpszych filmow</summary>
+            <param name="n"></param>
+        </member>
+        <member name="M:Projekt_PO.Baza_filmow.WypiszFilmy">
+            <summary>Wypisanie filmow</summary>
+        </member>
+        <member name="M:Projekt_PO.Baza_filmow.ZapiszXML(System.String,Projekt_PO.Baza_filmow)">
+            <summary>zapisz do xml</summary>
+            <param name="nazwa"></param>
+            <param name="z"></param>
+        </member>
+        <member name="M:Projekt_PO.Baza_filmow.OdczytajXML(System.String)">
+            <summary>odczyt </summary>
+            <param name="nazwa"></param>
+        </member>
+        <member name="M:Projekt_PO.Baza_filmow.ToString">
+            <summary>Nadpisanie metody ToString</summary>
+        </member>
+        <member name="T:Projekt_PO.Film">
+            <summary>Klasa film przechowujaca dane o filmie</summary>
+        </member>
+        <member name="P:Projekt_PO.Film.Tytul">
+            <summary>tytul filmu</summary>
+        </member>
+        <member name="P:Projekt_PO.Film.Rezyser">
+            <summary>rezyser filmu</summary>
+        </member>
+        <member name="P:Projekt_PO.Film.Rok_prod">
+            <summary>rok produkcji filmu</summary>
+        </member>
+        <member name="P:Projekt_PO.Film.Kategoria">
+            <summary>kategoria filmu</summary>
+        </member>
+        <member name="P:Projekt_PO.Film.Kraj_prod">
+            <summary>
+              <para>kraj produkcji filmu</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="P:Projekt_PO.Film.Oceny">
+            <summary>Lista ocen</summary>
+        </member>
+        <member name="P:Projekt_PO.Film.Srednia">
+            <summary>Srednia ocen filmu</summary>
+        </member>
+        <member name="M:Projekt_PO.Film.#ctor">
+            <summary>Konstruktor nieparametryczny filmu</summary>
+        </member>
+        <member name="M:Projekt_PO.Film.#ctor(System.String,System.String,System.Int32,Projekt_PO.Kategoria,System.String)">
+            <summary>Konstruktor parametryczny filmu</summary>
+            <param name="tyt"></param>
+            <param name="rez"></param>
+            <param name="rok"></param>
+            <param name="kat"></param>
+            <param name="kraj"></param>
+        </member>
+        <member name="M:Projekt_PO.Film.dodaj_Ocene(Projekt_PO.Ocena)">
+            <summary>Metoda dodaje ocene do filmu</summary>
+            <param name="o"></param>
+        </member>
+        <member name="M:Projekt_PO.Film.CompareTo(Projekt_PO.Film)">
+            <summary>Porownanie filmow</summary>
+            <param name="f"></param>
+        </member>
+        <member name="M:Projekt_PO.Film.ToString">
+            <summary>Nadpisaniem metody ToString</summary>
+        </member>
+        <member name="T:Projekt_PO.Ocena">
+            <summary>
+              <para>Klasa ocena przechowujaca note i recenzje udzielona przez uzytkownika</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="P:Projekt_PO.Ocena.Recenzja">
+            <summary>recenzja filmu</summary>
+        </member>
+        <member name="P:Projekt_PO.Ocena.Nota">
+            <summary>
+              <para>nota filmu</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="M:Projekt_PO.Ocena.#ctor">
+            <summary>konstruktor oceny</summary>
+        </member>
+        <member name="M:Projekt_PO.Ocena.#ctor(System.String,Projekt_PO.Uzytkownik,Projekt_PO.Nota)">
+            <summary>konstruktor oceny z uzytkownikiem nota i receznja</summary>
+            <param name="r"></param>
+            <param name="uu"></param>
+            <param name="n"></param>
+        </member>
+        <member name="T:Projekt_PO.Osoba">
+            <summary>klasa przechowuje imie i nazwisko osoby</summary>
+        </member>
+        <member name="P:Projekt_PO.Osoba.Nazwisko">
+            <summary>
+              <para>nazwisko osoby</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="P:Projekt_PO.Osoba.Imie">
+            <summary>
+              <para>imie osoby</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="M:Projekt_PO.Osoba.#ctor(System.String,System.String)">
+            <summary>konstruktor osoby z imieniem i nazwiskiem</summary>
+            <param name="i"></param>
+            <param name="n"></param>
+        </member>
+        <member name="M:Projekt_PO.Osoba.#ctor">
+            <summary>
+              <para>pusty konstruktor osoby</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="T:Projekt_PO.Kategoria">
+            <summary>Kategorie do wyboru</summary>
+        </member>
+        <member name="T:Projekt_PO.Nota">
+            <summary>Noty filmu do wyboru</summary>
+        </member>
+        <member name="T:Projekt_PO.Uzytkownik">
+            <summary>
+              <para>Klasa uzytkownik dziedzicząca po osobie(imie i nazwisko)</para>
+              <para></para>
+            </summary>
+        </member>
+        <member name="P:Projekt_PO.Uzytkownik.Nick">
+            <summary>nick uzytkownika</summary>
+        </member>
+        <member name="M:Projekt_PO.Uzytkownik.#ctor">
+            <summary>Pusty konstruktor uzytkownika</summary>
+        </member>
+        <member name="M:Projekt_PO.Uzytkownik.#ctor(System.String,System.String,System.String)">
+            <summary>konstruktor uzytkownika z nickiem, imieniem i nazwiskiem</summary>
+            <param name="i"></param>
+            <param name="n"></param>
+            <param name="ni"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,39 @@
+﻿<Window x:Class="GUI.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="zatwierdzfilm_Button" Content="Zatwierdź" HorizontalAlignment="Left" Margin="567,323,0,0" VerticalAlignment="Top" Width="217" Height="87" Click="zatwierdzfilm_Button_Click"/>
+        <TextBox x:Name="textBox_tytul" HorizontalAlignment="Left" Height="27" Margin="171,95,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="155"/>
+        <Label Content=" Dodawanie&#xD;&#xA;nowego filmu"  FontSize="20" HorizontalAlignment="Left" Margin="338,5,0,0" VerticalAlignment="Top" Height="74" Width="149" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.045"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="textBox_rezyser"  HorizontalAlignment="Left" Height="27" Margin="171,146,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="155"/>
+        <TextBox x:Name="textBox_rokprod" HorizontalAlignment="Left" Height="27" Margin="171,201,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="155"/>
+        <TextBox x:Name="textBox_kraj" HorizontalAlignment="Left" Height="27" Margin="171,249,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="155"/>
+        <Label Content="Tytuł" HorizontalAlignment="Left" Margin="40,95,0,0" VerticalAlignment="Top" Width="108" Height="27"/>
+        <Label Content="Reżyser" HorizontalAlignment="Left" Margin="40,146,0,0" VerticalAlignment="Top" Width="108" Height="27"/>
+        <Label Content="Rok produkcji" HorizontalAlignment="Left" Margin="40,201,0,0" VerticalAlignment="Top" Width="108" Height="27"/>
+        <Label Content="Kraj" HorizontalAlignment="Left" Margin="40,249,0,0" VerticalAlignment="Top" Width="108" Height="27"/>
+        <Label Content="Kategoria" HorizontalAlignment="Left" Margin="40,291,0,0" VerticalAlignment="Top" Width="108" Height="27"/>
+        <ComboBox x:Name="comboBox_kategoria" HorizontalAlignment="Left" Margin="184,295,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem x:Name = "one">Komedia</ComboBoxItem>
+            <ComboBoxItem x:Name = "two">Dramat</ComboBoxItem>
+            <ComboBoxItem x:Name = "three">Thriller</ComboBoxItem>
+            <ComboBoxItem x:Name = "four">Akcja</ComboBoxItem>
+            <ComboBoxItem x:Name = "five">Horror</ComboBoxItem>
+            <ComboBoxItem x:Name = "six">Animacja</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>

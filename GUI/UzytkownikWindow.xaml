@@ -1,0 +1,33 @@
+﻿<Window x:Class="GUI.UzytkownikWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="UzytkownikWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.509,0.128">
+        <TextBox x:Name="textBox_imie" HorizontalAlignment="Left" Height="23" Margin="190,39,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_nazwisko" HorizontalAlignment="Left" Height="23" Margin="190,104,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_nick" HorizontalAlignment="Left" Height="23" Margin="190,175,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_recenzja" HorizontalAlignment="Left" Height="91" Margin="154,301,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="308" />
+        <Label Content="Imie" HorizontalAlignment="Left" Margin="41,39,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Nazwisko" HorizontalAlignment="Left" Margin="41,100,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Nick" HorizontalAlignment="Left" Margin="41,171,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Ocena" HorizontalAlignment="Left" Margin="41,238,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Recenzja" HorizontalAlignment="Left" Margin="41,301,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Film" HorizontalAlignment="Left" Margin="405,142,0,0" VerticalAlignment="Top" Width="93"/>
+        <ListBox x:Name="listBox_filmy" HorizontalAlignment="Left" Height="243" Margin="503,39,0,0" VerticalAlignment="Top" Width="238"/>
+        <ComboBox x:Name ="comboBox_ocena" HorizontalAlignment="Left" Margin="190,238,0,0" VerticalAlignment="Top" Width="120" >
+            <ComboBoxItem x:Name = "one">beznadziejny</ComboBoxItem>
+            <ComboBoxItem x:Name = "two">slaby</ComboBoxItem>
+            <ComboBoxItem x:Name = "three">przecietny</ComboBoxItem>
+            <ComboBoxItem x:Name = "four">dobry</ComboBoxItem>
+            <ComboBoxItem x:Name = "five">bdobry</ComboBoxItem>
+            <ComboBoxItem x:Name = "six">rewelacyjny</ComboBoxItem>
+        </ComboBox>
+
+        <Button x:Name="zatwierdz" Content="Zatwierdź" HorizontalAlignment="Left" Margin="543,301,0,0" VerticalAlignment="Top" Width="168" Height="85" Click="zatwierdz_Click"/>
+
+    </Grid>
+</Window>

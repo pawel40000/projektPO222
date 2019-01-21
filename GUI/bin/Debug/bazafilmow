@@ -1,0 +1,716 @@
+<?xml version="1.0"?>
+<Baza_filmow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LiczbaFilmów>32</LiczbaFilmów>
+  <Lista_Filmów>
+    <Film>
+      <Tytul>Matrix</Tytul>
+      <Rezyser>Lilly Wachowski</Rezyser>
+      <Rok_prod>1999</Rok_prod>
+      <Kategoria>Akcja</Kategoria>
+      <Kraj_prod>Australia</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Ponad przeciętny poziom efektów specjalnych</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Nic ciekawego</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ten reżyser powieninien się już zająć szukaniem miejsca spokojnej starości, ogólnie w porządku</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>2</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Iron Man</Tytul>
+      <Rezyser>Akcja</Rezyser>
+      <Rok_prod>2008</Rok_prod>
+      <Kategoria>Akcja</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Haha a ja jak w tym filmie cyk blancik po robocie</Recenzja>
+          <Nota>dobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Słabizna!!!1111</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Arycdzieło kinematografii!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>4</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Nietykalni</Tytul>
+      <Rezyser>Olivier Nakache</Rezyser>
+      <Rok_prod>2012</Rok_prod>
+      <Kategoria>Komedia</Kategoria>
+      <Kraj_prod>Francja</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Ponad przeciętny poziom efektów specjalnych</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Całkiem dobry film, w sam raz na wolne popołudnie</Recenzja>
+          <Nota>dobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.25</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Pianista</Tytul>
+      <Rezyser>Roman Polański</Rezyser>
+      <Rok_prod>2002</Rok_prod>
+      <Kategoria>Dramat</Kategoria>
+      <Kraj_prod>Polska</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Odradzam oglądanie tego filmu, chyba że maja państwo kłopoty z bezsennością</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Bez ładu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.75</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Egzorcysta</Tytul>
+      <Rezyser>William Friedkin</Rezyser>
+      <Rok_prod>2014</Rok_prod>
+      <Kategoria>Horror</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Początek dobry, ale z każdą minuta coraz gorzej</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Całkiem dobry film, w sam raz na wolne popołudnie</Recenzja>
+          <Nota>dobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Nic specjalnego, tysiące takich filmów już było</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Nic ciekawego</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Nota>slaby</Nota>
+          <U>
+            <Nazwisko />
+            <Imie />
+            <Nick />
+          </U>
+        </Ocena>
+        <Ocena>
+          <Nota>slaby</Nota>
+          <U>
+            <Nazwisko />
+            <Imie />
+            <Nick />
+          </U>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.62</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Wyspa tajemnic</Tytul>
+      <Rezyser>Martin Scorsese</Rezyser>
+      <Rok_prod>2010</Rok_prod>
+      <Kategoria>Komedia</Kategoria>
+      <Kraj_prod>Polska</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Haha a ja jak w tym filmie cyk blancik po robocie</Recenzja>
+          <Nota>dobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Arycdzieło kinematografii!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Początek dobry, ale z każdą minuta coraz gorzej</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>4.5</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Złap mnie jeśli potrafisz</Tytul>
+      <Rezyser>Steven Spielberg</Rezyser>
+      <Rok_prod>2003</Rok_prod>
+      <Kategoria>Komedia</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.5</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Dracula</Tytul>
+      <Rezyser>Francis Ford Coppola</Rezyser>
+      <Rok_prod>1992</Rok_prod>
+      <Kategoria>Horror</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Polecam ten film</Recenzja>
+          <Nota>dobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ponad przeciętny poziom efektów specjalnych</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>4.5</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Obecność</Tytul>
+      <Rezyser>James Wan</Rezyser>
+      <Rok_prod>2013</Rok_prod>
+      <Kategoria>Horror</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Początek dobry, ale z każdą minuta coraz gorzej</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Prawie idealny!</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>4</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Zielona Mila</Tytul>
+      <Rezyser>Frank Darabont</Rezyser>
+      <Rok_prod>1999</Rok_prod>
+      <Kategoria>Dramat</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Ten reżyser powieninien się już zająć szukaniem miejsca spokojnej starości, ogólnie w porządku</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Słabizna!!!1111</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ponad przeciętny poziom efektów specjalnych</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Początek dobry, ale z każdą minuta coraz gorzej</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>2.25</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Skazani na Shawshank</Tytul>
+      <Rezyser>Frank Darabont</Rezyser>
+      <Rok_prod>1994</Rok_prod>
+      <Kategoria>Dramat</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Bez ładu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Słabizna!!!1111</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Nic ciekawego</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.25</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Forrest Gump</Tytul>
+      <Rezyser>Robert Zemeckis</Rezyser>
+      <Rok_prod>1994</Rok_prod>
+      <Kategoria>Dramat</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Słabizna!!!1111</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Arycdzieło kinematografii!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Haha a ja jak w tym filmie cyk blancik po robocie</Recenzja>
+          <Nota>dobry</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>4.25</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Adwokat Diabła</Tytul>
+      <Rezyser>Taylor Hackford</Rezyser>
+      <Rok_prod>1997</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>Niemcy</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.5</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Prestiż</Tytul>
+      <Rezyser>Chrisopher Nolan</Rezyser>
+      <Rok_prod>2006</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.5</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Przełęcz ocalonych</Tytul>
+      <Rezyser>Mel Gibson</Rezyser>
+      <Rok_prod>2016</Rok_prod>
+      <Kategoria>Dramat</Kategoria>
+      <Kraj_prod>Australia</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.5</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Whiplash</Tytul>
+      <Rezyser>Damien Chazelle</Rezyser>
+      <Rok_prod>2014</Rok_prod>
+      <Kategoria>Dramat</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Wzruszający</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.5</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Gladiator</Tytul>
+      <Rezyser>Ridley Scott</Rezyser>
+      <Rok_prod>2000</Rok_prod>
+      <Kategoria>Dramat</Kategoria>
+      <Kraj_prod>USA/Wielka Brytania</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Fenomenalny!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Nic ciekawego</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ten reżyser powieninien się już zająć szukaniem miejsca spokojnej starości, ogólnie w porządku</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>2.75</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Siedem</Tytul>
+      <Rezyser>David Fincher</Rezyser>
+      <Rok_prod>1995</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Nic ciekawego</Recenzja>
+          <Nota>przecietny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ponad przeciętny poziom efektów specjalnych</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ten reżyser powieninien się już zająć szukaniem miejsca spokojnej starości, ogólnie w porządku</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>2</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Amrican Gangster</Tytul>
+      <Rezyser>Ridley Scoot</Rezyser>
+      <Rok_prod>2007</Rok_prod>
+      <Kategoria>Akcja</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Odradzam oglądanie tego filmu, chyba że maja państwo kłopoty z bezsennością</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ten reżyser powieninien się już zająć szukaniem miejsca spokojnej starości, ogólnie w porządku</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>2.75</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Gran Torino</Tytul>
+      <Rezyser>Clint Eastwood</Rezyser>
+      <Rok_prod>2008</Rok_prod>
+      <Kategoria>Dramat</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Bez ładu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Strata czasu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Gra aktorska na poziomie ekstraklasy</Recenzja>
+          <Nota>beznadziejny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Arycdzieło kinematografii!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>2.5</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Jestem Legendą</Tytul>
+      <Rezyser>Francis Lawrence</Rezyser>
+      <Rok_prod>2011</Rok_prod>
+      <Kategoria>Horror</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Perfecto</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Arycdzieło kinematografii!</Recenzja>
+          <Nota>bdobry</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Słabizna!!!1111</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ponad przeciętny poziom efektów specjalnych</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>3.75</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Obcy - 8. pasażer Nostromo</Tytul>
+      <Rezyser>Ridley Scott</Rezyser>
+      <Rok_prod>1979</Rok_prod>
+      <Kategoria>Horror</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Prawie idealny!</Recenzja>
+          <Nota>rewelacyjny</Nota>
+        </Ocena>
+        <Ocena>
+          <Recenzja>Ponad przeciętny poziom efektów specjalnych</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>4</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Szybcy i Wściekli 5</Tytul>
+      <Rezyser>Justin Lin</Rezyser>
+      <Rok_prod>2011</Rok_prod>
+      <Kategoria>Akcja</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Polecam ten film</Recenzja>
+          <Nota>dobry</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>4</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Bękarty Wojny</Tytul>
+      <Rezyser>Quentin Tarantion</Rezyser>
+      <Rok_prod>2009</Rok_prod>
+      <Kategoria>Komedia</Kategoria>
+      <Kraj_prod>Niemcy</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Ten reżyser powieninien się już zająć szukaniem miejsca spokojnej starości, ogólnie w porządku</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>2</Srednia>
+    </Film>
+    <Film>
+      <Tytul>Infiltracja</Tytul>
+      <Rezyser>Martin Scorese</Rezyser>
+      <Rok_prod>2006</Rok_prod>
+      <Kategoria>Akcja</Kategoria>
+      <Kraj_prod>USA</Kraj_prod>
+      <Oceny>
+        <Ocena>
+          <Recenzja>Bez ładu</Recenzja>
+          <Nota>slaby</Nota>
+        </Ocena>
+      </Oceny>
+      <Srednia>2</Srednia>
+    </Film>
+    <Film>
+      <Tytul>dddddddd</Tytul>
+      <Rezyser>ddd</Rezyser>
+      <Rok_prod>1222</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>Hiszpania</Kraj_prod>
+      <Oceny />
+      <Srednia>0</Srednia>
+    </Film>
+    <Film>
+      <Tytul>dddddddd</Tytul>
+      <Rezyser>ddd</Rezyser>
+      <Rok_prod>1222</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>Hiszpania</Kraj_prod>
+      <Oceny />
+      <Srednia>0</Srednia>
+    </Film>
+    <Film>
+      <Tytul>dddddddd</Tytul>
+      <Rezyser>ddd</Rezyser>
+      <Rok_prod>1222</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>Hiszpania</Kraj_prod>
+      <Oceny />
+      <Srednia>0</Srednia>
+    </Film>
+    <Film>
+      <Tytul>dddddddd</Tytul>
+      <Rezyser>ddd</Rezyser>
+      <Rok_prod>1222</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>Hiszpania</Kraj_prod>
+      <Oceny />
+      <Srednia>0</Srednia>
+    </Film>
+    <Film>
+      <Tytul>dddddddd</Tytul>
+      <Rezyser>ddd</Rezyser>
+      <Rok_prod>1222</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>Hiszpania</Kraj_prod>
+      <Oceny />
+      <Srednia>0</Srednia>
+    </Film>
+    <Film>
+      <Tytul>ss</Tytul>
+      <Rezyser>s</Rezyser>
+      <Rok_prod>1111</Rok_prod>
+      <Kategoria>Thriller</Kategoria>
+      <Kraj_prod>scss</Kraj_prod>
+      <Oceny />
+      <Srednia>0</Srednia>
+    </Film>
+    <Film>
+      <Tytul />
+      <Rezyser />
+      <Rok_prod>0</Rok_prod>
+      <Kategoria>Komedia</Kategoria>
+      <Kraj_prod />
+      <Oceny />
+      <Srednia>0</Srednia>
+    </Film>
+  </Lista_Filmów>
+  <Nazwa>alka</Nazwa>
+</Baza_filmow>
